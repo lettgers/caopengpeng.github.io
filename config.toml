@@ -1,0 +1,4 @@
+baseURL = "http://blog.caopengpeng.com"
+languageCode = "zh-CN"
+title = "My New Hugo Site"
+theme = "hugo-theme-cleanwhite"
